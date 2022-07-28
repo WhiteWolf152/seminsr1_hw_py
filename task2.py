@@ -10,6 +10,6 @@ for x in range(2):
             result2 = not(x or y or z)
             print(x, y, z, "       ", result1, "         ", result2)
 if result1 == result2:
-    print("Равенство истенно")
+    print("Равенство истинно")
 else:
     print("Равенство ложно")
